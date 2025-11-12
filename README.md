@@ -1,6 +1,6 @@
 # YTVideoDownloader
 
-Mostly vibe coded YouTube Video & Audio Downloader with a torrent-style GUI, built in Python with Tkinter and yt-dlp.
+Mostly vibe coded YouTube Video & Audio Downloader with GUI, built in Python with Tkinter and yt-dlp.
 Supports parallel downloads, MP3 audio conversion, and per-download management (pause, resume, stop, delete, open folder). Works on Windows and macOS.
 
 # Features
