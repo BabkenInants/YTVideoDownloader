@@ -26,7 +26,7 @@ Supports parallel downloads, MP3 audio conversion, and per-download management (
 # Installation (Development)
 1.  Clone the repository:
 ```
-git clone https://github.com/yourusername/YTDownloader.git
+git clone https://github.com/BabkenInants/YTDownloader.git
 cd YTDownloader
 ```
 
